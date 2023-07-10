@@ -31,6 +31,7 @@ As happens so often, I wanted to focus on something slightly different: the grow
 ### What I tried to do but did not have the skills/time (but might do if I had more time)
 -- I really really really wanted to use Figma and Figma2html but ran out of time. 
 -- I had found a much, much better and more recent poll on sports fans' attitude toward human right -- but when I tried to use it, Statista wanted me to pay. So I had to look for publicly available Yougov data.     
+-- I still don't understand why I can't import Datawrapper's fonts, which automatically default to Times New Roman. 
 
 #### Main notebook, included in this repo: queens.ipynb
 #### Link to published page: https://mfhan.github.io/sportsbuy/
