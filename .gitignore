@@ -1,0 +1,33 @@
+.vscode
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#Files
+
+atp_matches_2022.csv
+tennis1.ipynb
+tennis2.ipynb
+kwindex.html
+lbindex.html
+liv.csv
+pga.csv
+soccerjjay.pdf
+viz1.svg
+viz2.svg
+wages.svg
+wta_matches_2022.csv
+yougov-saudi.pdf
+yougov.csv
+yougov.ipynb
+youtube/
